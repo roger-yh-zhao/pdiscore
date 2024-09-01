@@ -1,1 +1,2 @@
-conda pdi create -f environment.yml
+build environment by conda
+conda env create -f environment.yml
