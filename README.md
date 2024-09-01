@@ -1,3 +1,4 @@
-build environment by conda:
-
+Build environment by conda:
+````
 conda env create -f environment.yml
+````
