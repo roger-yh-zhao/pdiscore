@@ -1,11 +1,19 @@
-Build environment by conda:
+PDIScore
+===
+
+
+
+Build environment:
+-------
 ````
 conda env create -f environment.yml
 ````
 
-
+Example
+-------
 Generate pocket:
 ````
+cd test
 python pocket.py --name 1qne
 ````
 
