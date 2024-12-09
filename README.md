@@ -6,7 +6,8 @@ PDIScore
 Build environment
 -------
 ````
-conda env create -f environment.yml
+conda create --prefix xxx --file ./requirements_conda.txt      
+pip install -r ./requirements_pip.txt
 ````
 
 Example
