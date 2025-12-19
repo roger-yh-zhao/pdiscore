@@ -1,7 +1,7 @@
 PDIScore
 ===
 The paper is accessible at https://www.nature.com/articles/s41401-025-01688-3
-<img width="1038px" src="https://github.com/user-attachments/assets/aabe1de7-f2ff-4161-a014-e3b7dc8ca060" />
+<img src="https://github.com/user-attachments/assets/aabe1de7-f2ff-4161-a014-e3b7dc8ca060" width="210px">
 
 
 Build environment
