@@ -1,7 +1,7 @@
 PDIScore
 ===
 
-
+The paper is accessible at https://www.nature.com/articles/s41401-025-01688-3
 
 Build environment
 -------
