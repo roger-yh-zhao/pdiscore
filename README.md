@@ -1,8 +1,7 @@
 PDIScore
 ===
-![Uploading 1.png…]()
-
 The paper is accessible at https://www.nature.com/articles/s41401-025-01688-3
+<img width="3038" height="3619" alt="1" src="https://github.com/user-attachments/assets/aabe1de7-f2ff-4161-a014-e3b7dc8ca060" />
 
 Build environment
 -------
